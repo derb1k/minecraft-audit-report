@@ -1,0 +1,155 @@
+[06:10:39] [main/WARN]: Mod file C:\Users\Derbon\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.0\fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[06:10:39] [main/WARN]: Mod file C:\Users\Derbon\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.0\javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[06:10:39] [main/WARN]: Mod file C:\Users\Derbon\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.0\lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[06:10:39] [main/WARN]: Mod file C:\Users\Derbon\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.0\mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[06:10:44] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[06:10:44] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[06:10:44] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: C:\Users\Derbon\AppData\Roaming\.minecraft\versions\LS\mods\player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[06:10:44] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: C:\Users\Derbon\AppData\Roaming\.minecraft\versions\LS\mods\resourcefullib-forge-1.20.1-2.1.29.jar
+[06:10:44] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: mezz_config. Using Mod File: C:\Users\Derbon\AppData\Roaming\.minecraft\versions\LS\mods\mezz_config-1.20.1-forge-0.6.8.jar
+[06:10:44] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: midnightlib. Using Mod File: C:\Users\Derbon\AppData\Roaming\.minecraft\versions\LS\mods\midnightlib-forge-1.4.2.jar
+[06:10:44] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: terrablender. Using Mod File: C:\Users\Derbon\AppData\Roaming\.minecraft\versions\LS\mods\TerraBlender-forge-1.20.1-3.0.1.7.jar
+[06:11:03] [main/WARN]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
+[06:11:03] [main/WARN]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
+[06:11:03] [main/WARN]: Option 'mixin.perf.nbt_memory_usage' overriden (by mods [c2me]) to 'false'
+[06:11:03] [main/WARN]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
+[06:11:03] [main/WARN]: Option 'mixin.perf.thread_priorities' overriden (by mods [smoothboot]) to 'false'
+[06:11:03] [main/WARN]: Reference map 'lsc2meoptimizer.refmap.json' for lsc2meoptimizer.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:03] [main/WARN]: Embeddium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[06:11:03] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[06:11:03] [main/WARN]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:03] [main/INFO]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
+[06:11:03] [main/WARN]: Reference map 'guardribbits.refmap.json' for guardribbits.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:03] [main/WARN]: Reference map 'guardribbits.refmap.json' for guardribbits_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:03] [main/WARN]: Reference map 'lsresetspell.refmap.json' for lsresetspell.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:04] [main/WARN]: Reference map 'lslvlscale.refmap.json' for lslvlscale.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:04] [main/WARN]: Reference map 'luckys_armory.refmap.json' for luckys_armory.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:04] [main/WARN]: Reference map 'lsmorecraftingtables.refmap.json' for lsmorecraftingtables.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:04] [main/WARN]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:04] [main/WARN]: Reference map 'spellconsolecleaz.refmap.json' for spellconsolecleaz.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:05] [main/WARN]: Reference map 'improved_botania_pools.refmap.json' for improved_botania_pools.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:05] [main/WARN]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:05] [main/WARN]: Reference map '${mod_id}.refmap.json' for medievalorigins.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:05] [main/WARN]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:05] [main/WARN]: Reference map 'vc_gliders-forge-refmap.json' for vc_gliders.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:05] [main/WARN]: Reference map 'antiqueatlasreborn-forge-refmap.json' for antiqueatlas.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:05] [main/WARN]: Reference map 'abnormals_delight.refmap.json' for abnormals_delight.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:05] [main/WARN]: Reference map 'animus.refmap.json' for animus.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:05] [main/WARN]: Reference map 'animus.refmap.json' for animus.ironsspells.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:06] [main/WARN]: Reference map 'modonomicon.refmap.json' for modonomicon.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:06] [main/WARN]: Reference map 'modonomicon.refmap.json' for modonomicon.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:06] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:06] [main/WARN]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:11:07] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[06:11:08] [main/WARN]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
+[06:11:08] [main/WARN]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin from mod itemproductionlib
+[06:11:08] [main/WARN]: Error loading class: mekanism/client/render/entity/RenderFlame (java.lang.ClassNotFoundException: mekanism.client.render.entity.RenderFlame)
+[06:11:08] [main/WARN]: Error loading class: mekanism/client/render/armor/MekaSuitArmor (java.lang.ClassNotFoundException: mekanism.client.render.armor.MekaSuitArmor)
+[06:11:08] [main/WARN]: Error loading class: dev/tr7zw/skinlayers/render/CustomizableModelPart (java.lang.ClassNotFoundException: dev.tr7zw.skinlayers.render.CustomizableModelPart)
+[06:11:09] [main/WARN]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[06:11:09] [main/WARN]: Error loading class: dev/emi/emi/screen/EmiScreenManager (java.lang.ClassNotFoundException: dev.emi.emi.screen.EmiScreenManager)
+[06:11:09] [main/WARN]: Error loading class: me/shedaniel/rei/impl/client/gui/ScreenOverlayImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.gui.ScreenOverlayImpl)
+[06:11:09] [main/WARN]: Error loading class: fuzs/configmenusforge/client/gui/components/CustomBackgroundContainerObjectSelectionList (java.lang.ClassNotFoundException: fuzs.configmenusforge.client.gui.components.CustomBackgroundContainerObjectSelectionList)
+[06:11:09] [main/WARN]: Error loading class: fuzs/configmenusforge/client/gui/components/CustomBackgroundObjectSelectionList (java.lang.ClassNotFoundException: fuzs.configmenusforge.client.gui.components.CustomBackgroundObjectSelectionList)
+[06:11:09] [main/WARN]: @Mixin target lilypuree.decorative_blocks.blocks.PalisadeBlock was not found arts_and_crafts_compat.mixins.json:PalisadeBlockMixin from mod arts_and_crafts_compat
+[06:11:10] [main/WARN]: Error loading class: mezz/jei/gui/overlay/IngredientGridWithNavigation$UserInputHandler (java.lang.ClassNotFoundException: mezz.jei.gui.overlay.IngredientGridWithNavigation$UserInputHandler)
+[06:11:10] [main/WARN]: @Mixin target mezz.jei.gui.overlay.IngredientGridWithNavigation$UserInputHandler was not found extrasounds.mixins.json:jei.IngredientGridWithNavigationMixin from mod extrasounds
+[06:11:10] [main/WARN]: Error loading class: mezz/jei/library/ingredients/TypedIngredient (java.lang.ClassNotFoundException: mezz.jei.library.ingredients.TypedIngredient)
+[06:11:10] [main/WARN]: @Mixin target mezz.jei.library.ingredients.TypedIngredient was not found extrasounds.mixins.json:jei.TypedIngredientMixin from mod extrasounds
+[06:11:10] [main/WARN]: Error loading class: net/coderbot/iris/pipeline/newshader/ExtendedShader (java.lang.ClassNotFoundException: net.coderbot.iris.pipeline.newshader.ExtendedShader)
+[06:11:10] [main/WARN]: Error loading class: net/coderbot/iris/pipeline/newshader/fallback/FallbackShader (java.lang.ClassNotFoundException: net.coderbot.iris.pipeline.newshader.fallback.FallbackShader)
+[06:11:10] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[06:11:10] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[06:11:10] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.LightDataAccess)
+[06:11:10] [main/WARN]: Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net.caffeinemc.sodium.config.user.UserConfigCategories)
+[06:11:10] [main/WARN]: Error loading class: mezz/modnametooltip/TooltipEventHandler (java.lang.ClassNotFoundException: mezz.modnametooltip.TooltipEventHandler)
+[06:11:10] [main/WARN]: Error loading class: me/shedaniel/rei/impl/client/ClientHelperImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.ClientHelperImpl)
+[06:11:10] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr.catcore.server.translations.api.resource.language.SystemDelegatedLanguage)
+[06:11:10] [main/INFO]: Patching EffectRenderingInventoryScreen#renderEffects
+[06:11:10] [main/WARN]: Error loading class: net/dries007/tfc/common/fluids/MixingFluid (java.lang.ClassNotFoundException: net.dries007.tfc.common.fluids.MixingFluid)
+[06:11:10] [main/WARN]: @Mixin target net.dries007.tfc.common.fluids.MixingFluid was not found particular.mixins.json:compat.TFCMixingFluidMixin from mod particular
+[06:11:10] [main/WARN]: Error loading class: net/dries007/tfc/common/fluids/RiverWaterFluid (java.lang.ClassNotFoundException: net.dries007.tfc.common.fluids.RiverWaterFluid)
+[06:11:10] [main/WARN]: @Mixin target net.dries007.tfc.common.fluids.RiverWaterFluid was not found particular.mixins.json:compat.TFCWaterMixin from mod particular
+[06:11:10] [main/WARN]: Error loading class: dev/tr7zw/firstperson/modsupport/PlayerAnimatorSupport (java.lang.ClassNotFoundException: dev.tr7zw.firstperson.modsupport.PlayerAnimatorSupport)
+[06:11:10] [main/WARN]: Error loading class: dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu)
+[06:11:10] [main/WARN]: @Mixin target dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu was not found skilltree.mixins.json:apotheosis/ApothEnchantContainerMixin from mod skilltree
+[06:11:10] [main/WARN]: Error loading class: dev/shadowsoffire/apotheosis/adventure/affix/socket/SocketingRecipe (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.affix.socket.SocketingRecipe)
+[06:11:10] [main/WARN]: @Mixin target dev.shadowsoffire.apotheosis.adventure.affix.socket.SocketingRecipe was not found skilltree.mixins.json:apotheosis/SocketingRecipeMixin from mod skilltree
+[06:11:10] [main/WARN]: Error loading class: dev/shadowsoffire/apotheosis/adventure/affix/socket/gem/bonus/AttributeBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.AttributeBonus)
+[06:11:10] [main/WARN]: @Mixin target dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.AttributeBonus was not found skilltree.mixins.json:apotheosis/AttributeBonusMixin from mod skilltree
+[06:11:10] [main/WARN]: Error loading class: dev/shadowsoffire/apotheosis/adventure/affix/socket/gem/bonus/EnchantmentBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.EnchantmentBonus)
+[06:11:10] [main/WARN]: @Mixin target dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.EnchantmentBonus was not found skilltree.mixins.json:apotheosis/EnchantmentBonusMixin from mod skilltree
+[06:11:10] [main/WARN]: Error loading class: dev/shadowsoffire/apotheosis/adventure/client/AdventureModuleClient (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.client.AdventureModuleClient)
+[06:11:10] [main/WARN]: @Mixin target dev.shadowsoffire.apotheosis.adventure.client.AdventureModuleClient was not found skilltree.mixins.json:apotheosis/AdventureModuleClientMixin from mod skilltree
+[06:11:10] [main/WARN]: Error loading class: xaero/map/gui/GuiMap (java.lang.ClassNotFoundException: xaero.map.gui.GuiMap)
+[06:11:10] [main/WARN]: @Mixin target xaero.map.gui.GuiMap was not found create.mixins.json:compat.xaeros.XaeroFullscreenMapAccessor from mod create
+[06:11:10] [main/WARN]: Error loading class: xaero/map/gui/GuiMap (java.lang.ClassNotFoundException: xaero.map.gui.GuiMap)
+[06:11:10] [main/WARN]: @Mixin target xaero.map.gui.GuiMap was not found create.mixins.json:compat.xaeros.XaeroFullscreenMapMixin from mod create
+[06:11:11] [main/INFO]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[06:11:11] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [targetEntityLeak, biomeTemperatureLeak, hugeScreenshotLeak]
+[06:11:11] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[06:11:11] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[06:11:11] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[06:11:11] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[06:11:11] [main/WARN]: Force-disabling mixin 'features.render.gui.font.FontSetMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[06:11:11] [main/WARN]: Force-disabling mixin 'features.render.gui.debug.ForgeGuiMixin' as rule 'mixin.features.render.gui.debug' (added by mods [super_resolution]) disables it and children
+[06:11:11] [main/WARN]: Force-disabling mixin 'features.render.gui.debug.DebugScreenOverlayAccessor' as rule 'mixin.features.render.gui.debug' (added by mods [super_resolution]) disables it and children
+[06:11:11] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[06:11:11] [main/WARN]: Force-disabling mixin 'features.render.entity.remove_streams.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[06:11:11] [main/WARN]: Force-disabling mixin 'features.render.entity.remove_streams.HierarchicalModelMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[06:11:11] [main/WARN]: Force-disabling mixin 'features.render.entity.fast_render.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[06:11:11] [main/WARN]: Force-disabling mixin 'features.render.entity.fast_render.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[06:11:11] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[06:11:12] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$Internal)
+[06:11:12] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$Internal)
+[06:11:12] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$Internal)
+[06:11:12] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[06:11:12] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[06:11:12] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[06:11:12] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[06:11:12] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.LightDataAccess)
+[06:11:12] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.LightDataAccess)
+[06:11:12] [main/WARN]: Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net.caffeinemc.sodium.config.user.UserConfigCategories)
+[06:11:12] [main/WARN]: Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net.caffeinemc.sodium.config.user.UserConfigCategories)
+[06:11:12] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$Internal)
+[06:11:13] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$Internal)
+[06:11:13] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).
+[06:11:14] [main/INFO]: Smooth Boot (Reloaded) config initialized
+[06:11:14] [main/WARN]: Static binding violation: PRIVATE @Overwrite method m_216202_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagOrElementLocationMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[06:11:16] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin from mod crittersandcompanions::handler$hml000$crittersandcompanions$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[06:11:17] [main/WARN]: Method overwrite conflict for m_6473_ in guarding.mixins.json:api.ShieldEnchantabilityMixin from mod guarding, previously written by cofh.core.mixin.ShieldItemMixin. Skipping method.
+[06:11:17] [main/INFO]: Patching EffectRenderingInventoryScreen#renderEffects
+[06:11:17] [pool-5-thread-1/INFO]: ModernFix reached bootstrap stage (49.27 s after launch)
+[06:11:18] [pool-5-thread-1/WARN]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[06:11:18] [pool-5-thread-1/WARN]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[06:11:18] [pool-5-thread-1/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[06:11:18] [pool-5-thread-1/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[06:11:18] [pool-5-thread-1/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[06:11:18] [pool-5-thread-1/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on allurement.mixins.json:ItemEntityMixin from mod allurement::handler$khl000$allurement$getItemEnchantability exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[06:11:19] [pool-5-thread-1/INFO]: Vanilla bootstrap took 1155 milliseconds
+[06:11:19] [pool-5-thread-1/WARN]: Method overwrite conflict for m_6104_ in embeddium.mixins.json:features.options.render_layers.LeavesBlockMixin from mod embeddium, previously written by me.srrapero720.chloride.mixins.impl.leaves_culling.LeavesBlockMixin. Skipping method.
+[06:11:20] [pool-5-thread-1/WARN]: Method overwrite conflict for setBaseBlock in presencefootsteps.mixin.json:MBlockSettings from mod presencefootsteps, previously written by com.bobmowzie.mowziesmobs.mixin.BlockBehaviourMixin. Skipping method.
+[06:11:20] [pool-5-thread-1/WARN]: Method overwrite conflict for getBaseBlock in presencefootsteps.mixin.json:MBlockSettings from mod presencefootsteps, previously written by com.bobmowzie.mowziesmobs.mixin.BlockBehaviourMixin. Skipping method.
+[06:11:20] [pool-5-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[06:11:20] [pool-5-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[06:11:22] [pool-5-thread-1/WARN]: Method overwrite conflict for m_6596_ in amendments-common.mixins.json:LecternBlockEntityMixin from mod amendments, previously written by io.redspace.ironsspellbooks.mixin.LecternBlockEntityMixin. Skipping method.
+[06:11:22] [pool-5-thread-1/WARN]: Method overwrite conflict for m_5995_ in amendments-common.mixins.json:LecternBlockEntityUpdateMixin from mod amendments, previously written by io.redspace.ironsspellbooks.mixin.LecternBlockEntityMixin. Skipping method.
+[06:11:22] [pool-5-thread-1/WARN]: Method overwrite conflict for m_58483_ in amendments-common.mixins.json:LecternBlockEntityUpdateMixin from mod amendments, previously written by io.redspace.ironsspellbooks.mixin.LecternBlockEntityMixin. Skipping method.
+[06:11:22] [pool-5-thread-1/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on palladiumcore-common.mixins.json:LightningBoltMixin from mod palladiumcore::handler$hnk000$palladiumcore$tick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[06:11:22] [pool-5-thread-1/WARN]: Method overwrite conflict for m_7167_ in ranged_weapon_api.mixins.json:item.RangedWeaponItemMixin from mod ranged_weapon_api, previously written by net.projectile_damage.mixin.RangedWeaponItemMixin. Skipping method.
+[06:11:23] [pool-5-thread-1/INFO]: savage_and_ravage.mixins.json:RaiderAccessor from mod savage_and_ravage->@Accessor[FIELD_GETTER]::getIsCelebrating()Lnet/minecraft/network/syncher/EntityDataAccessor; should be static as its target is
+[06:11:24] [pool-5-thread-1/WARN]: Static binding violation: PRIVATE @Overwrite method m_135379_ in lithium.mixins.json:entity.data_tracker.use_arrays.DataTrackerMixin from mod radium cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[06:11:24] [pool-5-thread-1/INFO]: apoli.mixins.json:ItemSlotArgumentTypeAccessor from mod apoli->@Accessor[FIELD_GETTER]::getSlotNamesToSlotCommandId()Ljava/util/Map; should be static as its target is
+[06:11:25] [pool-5-thread-1/WARN]: Mixin alexscaves.mixins.json:SwampHutPieceMixin from mod alexscaves has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[06:11:25] [pool-5-thread-1/WARN]: @ModifyConstant conflict. Skipping dungeonnowloading.forge.mixins.json:forge.structures.StructurePoolMixin from mod dungeonnowloading->@ModifyConstant::dungeonnowloading_increaseWeightLimit(I)I with priority 1000, already redirected by yungsapi_forge.mixins.json:IncreaseStructureWeightLimitMixinForge from mod yungsapi->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000
+[06:11:25] [pool-5-thread-1/WARN]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[06:11:25] [pool-5-thread-1/WARN]: Method overwrite conflict for m_47505_ in lithium.mixins.json:world.temperature_cache.BiomeMixin from mod radium, previously written by org.embeddedt.modernfix.common.mixin.perf.remove_biome_temperature_cache.BiomeMixin. Skipping method.
+[06:11:25] [main/WARN]: Injection warning: LVT in net/minecraft/client/renderer/GameRenderer::m_109089_(FJLcom/mojang/blaze3d/vertex/PoseStack;)V has incompatible changes at opcode 325 in callback figura-common.mixins.json:render.GameRendererMixin from mod figura->@Inject::renderLevelSaveBobbingOF(FJLcom/mojang/blaze3d/vertex/PoseStack;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;ZZLnet/minecraft/client/Camera;Lcom/mojang/blaze3d/vertex/PoseStack;D)V.
+ Expected: [Z, Z, Lnet/minecraft/client/Camera;, Lcom/mojang/blaze3d/vertex/PoseStack;, D]
+    Found: [Z, Lnet/minecraft/client/Camera;, Lcom/mojang/blaze3d/vertex/PoseStack;, D, F]
+Available: [Z, Lnet/minecraft/client/Camera;, Lcom/mojang/blaze3d/vertex/PoseStack;, D, F, F, I, F, Lcom/mojang/math/Axis;, F]
+[06:11:26] [Render thread/WARN]: Assets URL 'union:/C:/Users/Derbon/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23849!/assets/.mcassetsroot' uses unexpected schema
+[06:11:26] [Render thread/WARN]: Assets URL 'union:/C:/Users/Derbon/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23849!/data/.mcassetsroot' uses unexpected schema
+[06:11:26] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:11:28] [Render thread/ERROR]: Failed to verify authentication
